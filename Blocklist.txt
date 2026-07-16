@@ -1344,12 +1344,10 @@
 *.device-metrics-us-2.amazon.com
 *.mads.amazon-adsystem.com
 *.images-na.ssl-images-amazon.com
-*.arcus-uswest.amazon.com
 *.officeclient.microsoft.com
 *.mrodevicemgr.officeapps.live.com
 *.youtubei.googleapis.com
 *.wallet.google.com
-*.myphonenumbers-pa.googleapis.com
 *.reach-pa.googleapis.com
 *.mcafee.com
 *.restrictedapps-pa.googleapis.com
